@@ -161,4 +161,24 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1051-height-checker) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
