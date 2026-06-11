@@ -20,6 +20,7 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -51,6 +52,7 @@ Total Solved: Updating automatically through LeetHub.
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -88,4 +90,8 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
