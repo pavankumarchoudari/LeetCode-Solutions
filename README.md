@@ -29,6 +29,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0141-linked-list-cycle](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0013-roman-to-integer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3340-check-balanced-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
 ## Queue
 |  |
@@ -119,8 +121,13 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
