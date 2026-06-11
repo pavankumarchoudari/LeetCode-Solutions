@@ -40,15 +40,18 @@ Total Solved: Updating automatically through LeetHub.
 | [0002-add-two-numbers](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -57,4 +60,8 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
