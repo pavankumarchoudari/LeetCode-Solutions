@@ -12,6 +12,7 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -40,6 +41,7 @@ Total Solved: Updating automatically through LeetHub.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -82,4 +84,8 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
