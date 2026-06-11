@@ -108,6 +108,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0013-roman-to-integer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3340-check-balanced-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
 ## Queue
 |  |
 | ------- |
