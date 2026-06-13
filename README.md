@@ -13,6 +13,7 @@ Total Solved: Updating automatically through LeetHub.
 | ------- |
 | [0001-two-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -57,6 +58,7 @@ Total Solved: Updating automatically through LeetHub.
 | ------- |
 | [0011-container-with-most-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
