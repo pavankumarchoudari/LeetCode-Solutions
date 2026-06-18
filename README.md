@@ -35,6 +35,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0013-roman-to-integer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -53,6 +54,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
