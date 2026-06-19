@@ -34,6 +34,7 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -82,6 +83,7 @@ Total Solved: Updating automatically through LeetHub.
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0050-powx-n) |
@@ -139,6 +141,7 @@ Total Solved: Updating automatically through LeetHub.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
