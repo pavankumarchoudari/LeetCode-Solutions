@@ -149,6 +149,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0020-valid-parentheses](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3340-check-balanced-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
