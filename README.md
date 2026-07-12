@@ -25,6 +25,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0073-set-matrix-zeroes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -110,6 +111,7 @@ Total Solved: Updating automatically through LeetHub.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Stack
