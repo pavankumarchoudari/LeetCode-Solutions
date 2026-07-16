@@ -21,6 +21,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0035-search-insert-position](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -54,6 +55,7 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
@@ -93,6 +95,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0012-integer-to-roman](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1925-count-square-sum-triples](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
