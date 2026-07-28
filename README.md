@@ -25,6 +25,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0053-maximum-subarray](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -60,6 +61,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0037-sudoku-solver](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -256,6 +258,7 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
