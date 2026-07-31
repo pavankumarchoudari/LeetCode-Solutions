@@ -43,6 +43,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0704-binary-search](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0160-intersection-of-two-linked-lists](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0134-gas-station](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -220,6 +223,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0435-non-overlapping-intervals](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1051-height-checker](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Enumeration
 |  |
 | ------- |
@@ -283,4 +287,12 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Prefix Sum
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
