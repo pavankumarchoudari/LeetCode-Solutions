@@ -36,6 +36,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0229-majority-element-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -101,6 +102,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0160-intersection-of-two-linked-lists](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Math
 |  |
@@ -166,6 +168,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0011-container-with-most-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1710-maximum-units-on-a-truck](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -223,6 +226,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0169-majority-element](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1051-height-checker](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1710-maximum-units-on-a-truck](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
