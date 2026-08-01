@@ -45,6 +45,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0704-binary-search](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1051-height-checker](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1710-maximum-units-on-a-truck](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
