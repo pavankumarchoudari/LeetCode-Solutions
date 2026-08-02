@@ -31,6 +31,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0075-sort-colors](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -167,6 +168,7 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0090-subsets-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Total Solved: Updating automatically through LeetHub.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
