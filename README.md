@@ -135,6 +135,7 @@ Total Solved: Updating automatically through LeetHub.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -168,6 +169,7 @@ Total Solved: Updating automatically through LeetHub.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0090-subsets-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Greedy
@@ -191,6 +193,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0013-roman-to-integer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
@@ -323,4 +326,8 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
