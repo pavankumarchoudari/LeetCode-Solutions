@@ -41,6 +41,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -156,6 +157,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0062-unique-paths](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
