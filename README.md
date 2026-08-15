@@ -47,6 +47,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0435-non-overlapping-intervals](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
@@ -159,6 +160,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Stack
@@ -196,6 +198,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0051-n-queens](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -371,4 +374,12 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
