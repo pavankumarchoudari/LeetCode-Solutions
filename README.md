@@ -133,6 +133,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0062-unique-paths](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1925-count-square-sum-triples](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
@@ -333,6 +334,7 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -383,4 +385,8 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0494-target-sum) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
