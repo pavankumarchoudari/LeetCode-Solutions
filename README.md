@@ -59,6 +59,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0704-binary-search](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1051-height-checker](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1710-maximum-units-on-a-truck](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -169,6 +170,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0494-target-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Stack
 |  |
 | ------- |
@@ -284,6 +286,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0455-assign-cookies](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1051-height-checker](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Enumeration
@@ -348,6 +351,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0704-binary-search](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Divide and Conquer
 |  |
 | ------- |
