@@ -303,6 +303,7 @@ Total Solved: Updating automatically through LeetHub.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -313,6 +314,7 @@ Total Solved: Updating automatically through LeetHub.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -327,6 +329,7 @@ Total Solved: Updating automatically through LeetHub.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -340,6 +343,7 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
