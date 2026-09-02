@@ -64,6 +64,7 @@ Total Solved: Updating automatically through LeetHub.
 | [1710-maximum-units-on-a-truck](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0070-climbing-stairs](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1925-count-square-sum-triples](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
