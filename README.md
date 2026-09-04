@@ -83,6 +83,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0169-majority-element](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0460-lfu-cache](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
@@ -107,6 +108,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0206-reverse-linked-list](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -267,6 +269,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0155-min-stack](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -423,4 +426,5 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
