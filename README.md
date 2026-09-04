@@ -78,6 +78,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0073-set-matrix-zeroes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -100,6 +101,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0061-rotate-list](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -261,6 +263,7 @@ Total Solved: Updating automatically through LeetHub.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -416,4 +419,8 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
