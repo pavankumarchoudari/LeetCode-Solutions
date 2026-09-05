@@ -65,6 +65,7 @@ Total Solved: Updating automatically through LeetHub.
 | [1710-maximum-units-on-a-truck](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -89,6 +90,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0460-lfu-cache](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0048-rotate-image](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -281,6 +284,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0090-subsets-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -361,6 +365,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0101-symmetric-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
 | ------- |
