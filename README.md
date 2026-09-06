@@ -178,6 +178,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0053-maximum-subarray](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -251,6 +252,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0043-multiply-strings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3340-check-balanced-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
