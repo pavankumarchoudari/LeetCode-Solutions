@@ -186,6 +186,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0494-target-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0940-distinct-subsequences-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Stack
 |  |
@@ -254,6 +255,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0067-add-binary](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0940-distinct-subsequences-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3340-check-balanced-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
 ## Queue
