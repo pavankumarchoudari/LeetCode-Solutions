@@ -1,40 +1,44 @@
-class MinStack {
-    // The main stack to store the elements
-    private Stack<Integer> stack;
-    // The min_stack to store the minimum element at each level of the stack
-    private Stack<Integer> minStack;
+import java.util.*;
 
-    // Constructor to initialize the stack and minStack
+class MinStack {
+    Stack<Long> stack;
+    long min;
+
     public MinStack() {
         stack = new Stack<>();
-        minStack = new Stack<>();
     }
 
-    // Push the element onto the stack
     public void push(int val) {
-        stack.push(val);
-        // If minStack is empty or the new value is smaller or equal to the current minimum, push it onto minStack
-        if (minStack.isEmpty() || val <= minStack.peek()) {
-            minStack.push(val);
+        if (stack.isEmpty()) {
+            stack.push((long) val);
+            min = val;
+        } else if (val >= min) {
+            stack.push((long) val);
+        } else {
+            stack.push(2L * val - min);
+            min = val;
         }
     }
 
-    // Pop the element from the stack
     public void pop() {
-        // If the popped value is the same as the current minimum, pop it from minStack as well
-        if (stack.peek().equals(minStack.peek())) {
-            minStack.pop();
+        long x = stack.pop();
+
+        if (x < min) {
+            min = 2 * min - x;
         }
-        stack.pop();
     }
 
-    // Get the top element of the stack
     public int top() {
-        return stack.peek();
+        long x = stack.peek();
+
+        if (x < min) {
+            return (int) min;
+        }
+
+        return (int) x;
     }
 
-    // Get the minimum element in the stack
     public int getMin() {
-        return minStack.peek();
+        return (int) min;
     }
 }
