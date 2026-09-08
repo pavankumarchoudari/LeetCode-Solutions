@@ -454,4 +454,8 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
