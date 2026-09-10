@@ -336,6 +336,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -346,6 +347,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String Matching
 |  |
 | ------- |
@@ -362,6 +364,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Function
 |  |
 | ------- |
