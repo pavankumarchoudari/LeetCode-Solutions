@@ -266,6 +266,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0115-distinct-subsequences](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0686-repeated-string-match](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0940-distinct-subsequences-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3340-check-balanced-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
@@ -363,6 +364,7 @@ Total Solved: Updating automatically through LeetHub.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 ## Binary Tree
 |  |
 | ------- |
@@ -474,4 +476,16 @@ Total Solved: Updating automatically through LeetHub.
 | ------- |
 | [0175-combine-two-tables](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
