@@ -161,6 +161,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0069-sqrtx](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1925-count-square-sum-triples](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [3870-count-commas-in-range](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -494,4 +495,8 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
