@@ -93,6 +93,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0387-first-unique-character-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -333,6 +334,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0435-non-overlapping-intervals](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -360,6 +362,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -374,6 +377,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String Matching
@@ -395,6 +399,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Function
@@ -409,6 +414,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0102-binary-tree-level-order-traversal](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
