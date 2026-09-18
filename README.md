@@ -96,6 +96,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0496-next-greater-element-i](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -258,6 +259,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0605-can-place-flowers](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -282,6 +284,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0387-first-unique-character-in-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0686-repeated-string-match](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0940-distinct-subsequences-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3340-check-balanced-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
@@ -340,6 +343,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
