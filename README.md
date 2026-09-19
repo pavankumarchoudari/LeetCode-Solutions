@@ -167,6 +167,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0070-climbing-stairs](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1925-count-square-sum-triples](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [3870-count-commas-in-range](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
@@ -538,4 +539,5 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
