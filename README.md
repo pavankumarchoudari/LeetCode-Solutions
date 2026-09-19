@@ -165,6 +165,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0067-add-binary](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0223-rectangle-area](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 | [0509-fibonacci-number](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -538,6 +539,7 @@ Total Solved: Updating automatically through LeetHub.
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
