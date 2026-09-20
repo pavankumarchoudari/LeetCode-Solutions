@@ -290,6 +290,7 @@ Total Solved: Updating automatically through LeetHub.
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3340-check-balanced-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -328,6 +329,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0043-multiply-strings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3498-reverse-degree-of-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
