@@ -67,6 +67,7 @@ Total Solved: Updating automatically through LeetHub.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -103,6 +104,7 @@ Total Solved: Updating automatically through LeetHub.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -300,6 +302,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0940-distinct-subsequences-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3340-check-balanced-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
