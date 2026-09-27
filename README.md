@@ -239,6 +239,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0496-next-greater-element-i](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1096-brace-expansion-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -301,6 +302,7 @@ Total Solved: Updating automatically through LeetHub.
 | [0686-repeated-string-match](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0940-distinct-subsequences-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -514,6 +516,7 @@ Total Solved: Updating automatically through LeetHub.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pavankumarchoudari/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Manacher
 |  |
 | ------- |
